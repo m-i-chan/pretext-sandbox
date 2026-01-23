@@ -6,13 +6,14 @@
 
   <book xml:id="Hello-World">
     <title>HelloWorld</title>
-    <subtitle>A MATH 123 Textbook Conversion Exercise</subtitle>
+    <subtitle>Sandbox for PreTeXt</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
     <xi:include href="./cover-sheet.ptx" />
+    <xi:include href="./new_section.ptx" />
 
 
     <!-- Include backmatter -->

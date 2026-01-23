@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="cover-sheet" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>MATH 123 Intro to Functions</title>
+  <title>Test Page</title>
 
   <introduction>
     <p>
-      This course pack contains lesson handouts for College Algebra. Each lesson follows closely with its respective section/subsection in the
-      accompanying course textbook. Each lesson will be discussed during in-class lectures and/or labs, and consequently should be brought to class.
+      This is a test page for playing around with PreTeXt content.
     </p>
   </introduction>
 
