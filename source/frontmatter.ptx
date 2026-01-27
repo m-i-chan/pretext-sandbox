@@ -9,7 +9,9 @@
       <personname>Marc Chan</personname>
       <institution>Framingham State University</institution>
     </author>
-
+    <date>
+      Last Update: <today />
+    </date>
   </titlepage>
 </frontmatter>
 

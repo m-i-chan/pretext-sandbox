@@ -4,17 +4,14 @@
   <!-- we first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
-  <book xml:id="Hello-World">
-    <title>HelloWorld</title>
-    <subtitle>Sandbox for PreTeXt</subtitle>
+  <book xml:id="pretext-sandbox">
+    <title>PreTeXt Sandbox</title>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
     <xi:include href="./cover-sheet.ptx" />
-    <xi:include href="./new_section.ptx" />
-
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />

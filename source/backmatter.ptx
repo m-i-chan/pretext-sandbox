@@ -20,15 +20,5 @@
   <!-- <appendix> <title>List of Symbols</title> <notation-list/> </appendix> -->
 
   <!-- <index> <title>Index</title> <index-list/> </index> -->
-
-  <colophon>
-
-    <copyright>
-      <year>2026</year>
-      <holder>Marc Chan</holder>
-      <shortlicense> This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit <url href="http://creativecommons.org/licenses/by-sa/4.0/" visual="creativecommons.org/licenses/by-sa/4.0"> CreativeCommons.org</url>
-      </shortlicense>
-    </copyright>
-  </colophon>
 </backmatter>
 
