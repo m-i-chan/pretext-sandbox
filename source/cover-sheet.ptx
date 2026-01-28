@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <chapter xml:id="cover-sheet" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Cover Sheet</title>
-
-  <introduction>
-    <p>
-      This is a test page for playing around with PreTeXt content.
-    </p>
-  </introduction>
-
+  <title>About</title>
+      <p>
+        Marc is a senior at Framingham State University pursuing a degree in computer science. His hobbies include video games, hiking, and working on his Miata.
+      </p>
+      <p>
+        This site is a sandbox for learning PreTeXt.
+      </p>
 </chapter>

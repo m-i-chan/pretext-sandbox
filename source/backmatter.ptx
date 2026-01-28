@@ -7,12 +7,6 @@
 <!-- with all notation generated, and finally the index. -->
 <backmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="backmatter">
   <title>Backmatter</title>
-<section xml:id="sec-Author-Profile">
-  <title>Author Profile</title>
-    <p>
-    Marc is a senior attending Framingham State University and is pursuing a bachelor's in computer science. His hobbies include computers and working on his Miata.
-    </p>
-</section>
   <!-- <solutions divisional="hint"> <title>Selected Hints</title> </solutions> -->
 
   <!-- <solutions divisional="solution"> <title>Selected Solutions</title> </solutions> -->

@@ -2,11 +2,13 @@
 
 <chapter xml:id="sample-lesson" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Linear Inequalities</title>
-
+    <introduction>
+        <p>This section contains a lesson from Prof. Atchison's MATH123 course. 
+    It was originally written in LaTeX and has been converted to PreTeXt as an exercise. </p>
+    </introduction>
   <section xml:id="linear-description">
     <title>Lesson Description</title>
-    <introduction>This section contains a lesson from Prof. Atchison's MATH123 course. 
-    It was originally written in LaTeX and has been converted to PreTeXt as an exercise.</introduction>
+
     <subsection xml:id="linear-objective">
         <title>Objective:</title>
         <p> Solve, graph, and give interval notation for the solution to a linear inequality. Create a sign diagram to identify those intervals where a linear expression is positive or negative.</p>
