@@ -4,14 +4,15 @@
 <!-- works. -->
 
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
-  <titlepage>
+  <title>Home</title>
+  <bibinfo>
     <author>
       <personname>Marc Chan</personname>
       <institution>Framingham State University</institution>
     </author>
-    <date>
-      Last Update: <today />
-    </date>
+    <date> Last Updated: <today /></date>
+  </bibinfo>
+  <titlepage>
+    <titlepage-items/>
   </titlepage>
 </frontmatter>
-
