@@ -65,7 +65,7 @@
                 <li>
                     <title>Verbally:</title>
                     <p>
-                        The set of all values of <m>x</m> that are greater than or equal to (at least) <m>2</m>
+                        The set of all values of <m>x</m> that are greater than or equal to (at least) <m>2</m>.
                     </p>
                 </li>
                 <li>
@@ -87,8 +87,8 @@
                             \begin{tikzpicture}
                             \draw [latex-latex] (0,0) -- (5,0) node[below right] {$x$};
                             \draw [-latex,line width=1.5mm](2,0) -- (5,0);
-                            \draw (2,-1) node {$2$};
-                        	\draw (2,0) node {$[$};
+                            \draw (2,.5) -- (2,-.5) node[below] {$2$};
+                        	\draw (2,0) node {\huge$[$};
                             \end{tikzpicture}
                         </latex-image>
                     </image>
