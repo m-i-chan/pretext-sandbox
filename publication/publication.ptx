@@ -105,7 +105,7 @@
     <!-- See also                                              -->
     <!-- https://pretextbook.org/doc/guide/html/publication-file-online.html#online-style-options -->
     <css
-        style="default-modern"
+        theme="default-modern"
         colors="blue_red"
     />
     <!-- Search can be default or none, or you can use a Google-cx number to use google's search
