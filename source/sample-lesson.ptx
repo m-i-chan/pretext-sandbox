@@ -29,9 +29,77 @@
         <p>
             <ul>
                 <li>Apply the distributive property.</li>
-                <li>Verify the accuracy of a solution to an inequality by checking</li>
+                <li>Verify the accuracy of a solution to an inequality by checking.</li>
             </ul>
         </p>
     </subsection>
+  </section>
+  <section xml:id="linear-lesson">
+    <title>Lesson</title>
+    <subsection xml:id="linear-motivating-example">
+        <title>Motivating Example</title>
+        <p>
+            Solve the linear equality. 
+            <md>
+                <mrow> 4x-3 \amp \geq 5 \amp</mrow>
+                <mrow>(4x-3)+3 \amp \geq 5+3 \amp \text{Add 3 to both sides} </mrow>
+                <mrow>4x \amp \geq 8 \amp</mrow>
+                <mrow>\frac{4x}{4} \amp \geq \frac{8}{4} \amp \text{Divide both sides by 4} </mrow>
+                <mrow>x \amp \geq 2 \amp \text{Our solution} </mrow>
+                <!--
+                Second attempt, experimented with formatting, removed depreciated functions
+                <mrow>4x-3 \amp \geq \amp 5 \amp</mrow>
+                <mrow>\underline{+\,3} \amp \amp \underline{+\,3} \amp \quad \text{Add 3 to both sides}</mrow>
+                <mrow>4x \amp \geq \amp 8 \amp</mrow>
+                <mrow>\overline{4} \amp \amp \overline{4} \amp \quad \text{Divide both sides by 4}</mrow>
+                <mrow>x \amp \geq \amp 2 \amp \quad \text{Our} </mrow>
+                First attempt, pulled LaTeX code directly from original material.
+                <mrow> 4x \amp - 3 \geq \amp 5 \amp</mrow>
+                <mrow> \amp \underline{+ 3} \amp \underline{+ 3} \amp ~~~~~ \text{Add 3 to both sides}</mrow>
+                -->
+            </md>
+        </p>
+        <p>
+            Our solution can be expressed as follows:
+            <dl>
+                <li>
+                    <title>Verbally:</title>
+                    <p>
+                        The set of all values of <m>x</m> that are greater than or equal to (at least) <m>2</m>
+                    </p>
+                </li>
+                <li>
+                    <title>Inequality:</title>
+                    <p>
+                        <m>x|x \geq 2</m>
+                    </p>
+                </li>
+                <li>
+                    <title>Interval:</title>
+                    <p>
+                        <m>[2,\infty)</m>
+                    </p>
+                </li>
+                <li>
+                    <title>Graphically (number line):</title>
+                    <image>
+                        <latex-image >
+                            \begin{tikzpicture}
+                            \draw [latex-latex] (0,0) -- (5,0) node[below right] {$x$};
+                            \draw [-latex,line width=1.5mm](2,0) -- (5,0);
+                            \draw (2,-1) node {$2$};
+                        	\draw (2,0) node {$[$};
+                            \end{tikzpicture}
+                        </latex-image>
+                    </image>
+                    <p>
+                        Note: A closed (shaded) circle at <m>x=2</m> is also acceptable in place of a bracket.
+                    </p>
+                </li>
+            </dl>
+        </p>
+
+    </subsection>
+    
   </section>
 </chapter>
