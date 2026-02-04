@@ -13,6 +13,7 @@
     <!-- Include chapters -->
     <xi:include href="./cover-sheet.ptx" />
     <xi:include href="./sample-lesson.ptx" />
+    <xi:include href="./fsu-math-programs.ptx" />
 
     <!-- Include backmatter -->
     <!-- xi:include href="./backmatter.ptx" / -->

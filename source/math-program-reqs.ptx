@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-mathematics-program-reqs">
+    <title>Mathematics Program Requirements</title>
+        <p>
+            <dl>
+                <li>
+                    <title>STAT 157</title>
+                    <p>
+                        Probability and Statistics
+                    </p>
+                </li>
+                <li>
+                    <title>MATH 206</title>
+                    <p>
+                        Discrete Mathematics I
+                    </p>
+                </li>
+                <li>
+                    <title>MATH 219</title>
+                    <p>
+                        Calculus I
+                    </p>
+                </li>
+                <li>
+                    <title>MATH 220</title>
+                    <p>
+                        Calculus II
+                    </p>
+                </li>
+                <li>
+                    <title>MATH 221</title>
+                    <p>
+                        Calculus III
+                    </p>
+                </li>
+                <li>
+                    <title>MATH 226</title>
+                    <p>
+                        Linear Algebra
+                    </p>
+                </li>
+                <li>
+                    <title>MATH 419</title>
+                    <p>
+                        Abstract Algebra I
+                    </p>
+                </li>
+                <li>
+                    <title>MATH 427</title>
+                    <p>
+                        Real Analysis
+                    </p>
+                </li>
+                <li>
+                    <title>CSCI xxx</title>
+                    <p>
+                        One Computer Science Course
+                    </p>
+                </li>
+            </dl>
+        </p>
+        <p>
+            In addition to those courses listed above, each student must complete the major requirements described in the following sections.
+        </p>
+</section>
