@@ -25,7 +25,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "",
   "title": "Lesson",
-  "body": " Lesson   Motivating Example  Solve the linear equality.   Our solution can be expressed as follows:   Verbally:  The set of all values of that are greater than or equal to (at least)     Inequality:       Interval:       Graphically (number line):     Note: A closed (shaded) circle at is also acceptable in place of a bracket.      "
+  "body": " Lesson   Motivating Example  Solve the linear equality.   Our solution can be expressed as follows:   Verbally:  The set of all values of that are greater than or equal to (at least) .    Inequality:       Interval:       Graphically (number line):     Note: A closed (shaded) circle at is also acceptable in place of a bracket.      "
+},
+{
+  "id": "sec-mathematics-program-reqs",
+  "level": "1",
+  "url": "sec-mathematics-program-reqs.html",
+  "type": "Section",
+  "number": "",
+  "title": "Mathematics Program Requirements",
+  "body": " Mathematics Program Requirements     STAT 157  Probability and Statistics    MATH 206  Discrete Mathematics I    MATH 219  Calculus I    MATH 220  Calculus II    MATH 221  Calculus III    MATH 226  Linear Algebra    MATH 419  Abstract Algebra I    MATH 427  Real Analysis    CSCI xxx  One Computer Science Course     In addition to those courses listed above, each student must complete the major requirements described in the following sections.  "
 }
 ]
 
